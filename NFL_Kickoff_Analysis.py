@@ -489,5 +489,5 @@ fig.update_traces(
 # Display the Plotly chart in Streamlit
 st.plotly_chart(fig)
 
-st.markdown("[MIT License: Data retrieved from nfl_data_py Python package](https://github.com/datacoaching/NFLAnalytics/blob/main/LICENSE.txt)", unsafe_allow_html=True)
+st.markdown("[MIT License: Data retrieved from nfl_data_py Python package](https://github.com/ameya1727/NFLAnalytics/blob/main/LICENSE.txt)", unsafe_allow_html=True)
 
